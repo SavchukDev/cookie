@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52edea31-eb10-44e2-b339-d3a0bed4fbeb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/10.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/11.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/11.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/12.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/12.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/13.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/13.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/14.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/14.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/15.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/15.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/16.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/16.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/17.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/17.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/18.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/19.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/19.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/20.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/20.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/21.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/21.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/22.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/22.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/23.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/23.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/24.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/24.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/25.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/25.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/26.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/26.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/27.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/27.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/28.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/28.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/29.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/29.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/30.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/30.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/31.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/31.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/32.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/32.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/33.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/33.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/34.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/34.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/35.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/35.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/36.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/36.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/37.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/37.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/38.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/38.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/6.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/7.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/8.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/9.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/db_connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/db_connect.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b2rAhjEPgaoBPVVfeLOeqxhcap" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52edea31-eb10-44e2-b339-d3a0bed4fbeb" name="Default Changelist" comment="" />
+      <created>1587840887072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587840887072</updated>
+      <workItem from="1587840888369" duration="908000" />
+      <workItem from="1587923213591" duration="30071000" />
+      <workItem from="1588599172109" duration="8555000" />
+      <workItem from="1588862553608" duration="4439000" />
+      <workItem from="1589483554176" duration="599000" />
+      <workItem from="1589539759075" duration="638000" />
+      <workItem from="1589825534226" duration="437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1588683128897">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588683128897" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1589541475328">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1589541475328" />
+    <state x="855" y="452" key="Github.ShareDialog" timestamp="1588159430176">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="855" y="452" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588159430176" />
+    <state x="826" y="239" width="325" height="626" key="Github.UntrackedFilesDialog" timestamp="1588159441422">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="826" y="239" width="325" height="626" key="Github.UntrackedFilesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588159441422" />
+    <state x="795" y="272" width="409" height="561" key="NewPhpClassDialog" timestamp="1588598552568">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="795" y="272" width="409" height="561" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588598552568" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1588682501531">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588682501531" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1588681716989">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1588681716989" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1588515182992">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1588515182992" />
+  </component>
+</project>
